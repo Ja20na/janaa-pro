@@ -1,0 +1,14 @@
+/* add your CSS here */
+
+body {
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.descreption{ border: 2px solid gray;
+    border-radius: 5px;
+
+}
+
+.list {
+    list-style-type:none;
+}
