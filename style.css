@@ -1,14 +1,34 @@
 /* add your CSS here */
 
 body {
-    border: 2px solid gray;
-    border-radius: 5px;
+  border: 2px  solid gray;
+  border-radius: 2px;
+  margin: 10px; 
+  width: 320px;
 }
-.descreption{ border: 2px solid gray;
-    border-radius: 5px;
 
+
+.card {
+  width: 300px;
+  padding: 5px;
+  text-align: center;
 }
+
+.descreption {
+  border: 2px solid gray;
+  border-radius: 2px;
+}
+
+
+
+.fact {
+  font-style: italic;
+}
+
 
 .list {
-    list-style-type:none;
+   
+    padding: 0;
+    word-wrap: break-word;
 }
+
